@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'João Duarte'
+subtitle: "I build applications and videogames."
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a Junior Programmer and a Game Developer living in Lisbon, Portugal specializing in building (and occasionally designing) applications and videogames.
