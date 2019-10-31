@@ -15,7 +15,7 @@ const NavContainer = styled.header`
   position: fixed;
   top: 0;
   padding: 0px 50px;
-  background-color: ${colors.navy};
+  background-color: ${colors.white};
   transition: ${theme.transition};
   z-index: 11;
   filter: none !important;
@@ -35,7 +35,7 @@ const Navbar = styled.nav`
   ${mixins.flexBetween};
   position: relative;
   width: 100%;
-  color: ${colors.lightestSlate};
+  color: ${colors.white};
   font-family: ${fonts.SFMono};
   counter-reset: item 0;
   z-index: 12;
@@ -45,13 +45,13 @@ const Logo = styled.div`
 `;
 const LogoLink = styled.a`
   display: block;
-  color: ${colors.green};
+  color: ${colors.dark};
   width: 42px;
   height: 42px;
   &:hover,
   &:focus {
     svg {
-      fill: ${colors.transGreen};
+      fill: ${colors.orange};
     }
   }
   svg {

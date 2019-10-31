@@ -150,8 +150,8 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: ${colors.navy};
-    color: ${colors.slate};
+    background-color: ${colors.white};
+    color: ${colors.dark};
     line-height: 1.3;
     font-family: ${fonts.Calibre};
     font-size: ${fontSizes.xlarge};
@@ -181,7 +181,7 @@ const GlobalStyle = createGlobalStyle`
   h4,
   h5 {
     font-weight: 600;
-    color: ${colors.white};
+    color: ${colors.darkestNavy};
     margin: 0 0 10px 0;
   }
 
@@ -217,7 +217,7 @@ const GlobalStyle = createGlobalStyle`
 
     &:hover,
     &:focus {
-      color: ${colors.green};
+      color: ${colors.orange};
       outline: 0;
     }
   }

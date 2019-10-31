@@ -1,22 +1,19 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'João Duarte | Junior Programmer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'João Duarte is a Junior Programmer and a Game Developer living in Lisbon, Portugal specializing in building and designing applications and videogames.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'João Duarte, João, Duarte, JoaoAVDuarte, Junior Programmer, Game developer, web developer, javascript, portugal',
+  siteUrl: 'https://joaoduarte.netlify.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'João Duarte',
+  location: 'Lisbon, Portugal',
+  email: 'jaduarte1998@gmail.com',
+  github: 'https://github.com/JoaoAVDuarte',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/JoaoAVDuarte',
     },
     {
       name: 'Linkedin',
@@ -58,7 +55,7 @@ module.exports = {
   navHeight: 100,
   greenColor: '#64ffda',
   navyColor: '#0a192f',
-  darkNavyColor: '#020c1b',
+  darkNavyColor: '#ffffff',
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',
