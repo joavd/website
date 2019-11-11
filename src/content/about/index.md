@@ -2,18 +2,19 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
+  - .NET
+  - Java
+  - JavaScript
+  - HTML & CSS
+  - SQL
+  - Angular
   - Node.js
-  - Express
-  - GraphQL
-  - NativeScript
+  - Unity
+  - Unreal
 ---
 
-Hello! I'm João, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm João, a Junior Programmer and Game Developer living in Lisbon, Portugal. I develop exceptional applications and videogames using a wide variety of technologies.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I'm currently on my last year of the Bachelor's degree in Videogames from [Lusófona University](https://www.ulusofona.pt/en/), and previously obtained a L4 Certificate in Programming and Management of Computer Systems from EPBJC.
 
 Here are a few technologies I've been working with recently:
