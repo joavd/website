@@ -7,6 +7,6 @@ range: 'April - July 2017'
 url: 'https://new.siemens.com/pt/en.html'
 ---
 
-- Updated and developed automates tests for internal programs that reduced testing time significantly.
-- Participated in projects meeting with technical staff members and external clients.
+- Updated and developed automated tests for internal programs that reduced testing time significantly.
+- Participated in project meetings with technical staff members and external clients.
 - Use of Java, Cucumber/Gherkin, Jbehave and Maven.
