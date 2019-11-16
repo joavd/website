@@ -1,13 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'The Artificer'
 cover: './octoprofile.png'
 github: 'https://github.com/bchiang7/octoprofile'
 external: 'https://octoprofile.now.sh'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Unity3D
+  - C#
+  - 3 month project
 show: 'true'
 ---
 
