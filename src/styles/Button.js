@@ -3,7 +3,7 @@ import theme from './theme';
 const { colors, fontSizes, fonts } = theme;
 
 const Button = styled.button`
-  color: ${colors.green};
+  color: ${colors.darkBlue};
   background-color: transparent;
   border: 1px solid ${colors.darkBlue};
   border-radius: ${theme.borderRadius};
@@ -17,7 +17,7 @@ const Button = styled.button`
 
   &:focus,
   &:active {
-    background-color: ${colors.blue};
+    background-color: ${colors.transBlue};
     outline: none;
   }
   &:after {

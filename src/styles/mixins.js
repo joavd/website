@@ -43,7 +43,7 @@ const mixins = {
     position: relative;
     transition: ${theme.transition};
     cursor: pointer;
-    color: ${colors.blue};
+    color: ${colors.darkBlue};
     &:hover,
     &:focus,
     &:active {
@@ -60,16 +60,16 @@ const mixins = {
       height: 1px;
       position: relative;
       bottom: 0.37em;
-      background-color: ${colors.orange};
+      background-color: ${colors.darkBlue};
       transition: ${theme.transition};
       opacity: 0.5;
     }
   `,
 
   smallButton: css`
-    color: ${colors.orange};
+    color: ${colors.darkBlue};
     background-color: transparent;
-    border: 1px solid ${colors.blue};
+    border: 1px solid ${colors.darkBlue};
     border-radius: ${theme.borderRadius};
     padding: 0.75rem 1rem;
     font-size: ${fontSizes.smallish};
@@ -81,7 +81,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.darkBlue};
+      background-color: ${colors.transBlue};
     }
     &:after {
       display: none !important;
@@ -89,9 +89,9 @@ const mixins = {
   `,
 
   bigButton: css`
-    color: ${colors.orange};
+    color: ${colors.darkBlue};
     background-color: transparent;
-    border: 1px solid ${colors.blue};
+    border: 1px solid ${colors.darkBlue};
     border-radius: ${theme.borderRadius};
     padding: 1.25rem 1.75rem;
     font-size: ${fontSizes.small};
@@ -103,7 +103,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.darkBlue};
+      background-color: ${colors.transBlue};
     }
     &:after {
       display: none !important;
@@ -118,7 +118,7 @@ const mixins = {
   `,
 
   boxShadow: css`
-    box-shadow: 0 10px 30px -15px ${colors.blue};
+    box-shadow: 0 10px 30px -15px ${colors.darkBlue};
     transition: ${theme.transition};
 
     &:hover,

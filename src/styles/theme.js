@@ -25,7 +25,7 @@ const theme = {
     transNavy: 'rgba(10, 25, 47, 0.7)',
     shadowNavy: 'rgba(2, 12, 27, 0.7)',
     transDark: 'rgba(0, 0, 0, 0.85)',
-    transBlue: 'rgba(41, 61, 90, 0.5)',
+    transBlue: 'rgba(29, 127, 252, 0.5)',
   },
 
   fonts: {
@@ -57,7 +57,7 @@ const theme = {
   tabWidth: 120,
   radius: 3,
 
-  gradient: `linear-gradient(0.4turn, #64d6ff, #64ffda)`,
+  gradient: `linear-gradient(0.4turn, #64d6ff, #1D7FFC)`,
 
   loaderDelay: `6`,
 

@@ -17,19 +17,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/joaoavduarte/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.linkedin.com/in/JoaoAVDuarte/',
     },
   ],
 
@@ -53,7 +41,7 @@ module.exports = {
   ],
 
   navHeight: 100,
-  greenColor: '#64ffda',
+  greenColor: '#1d7ffc',
   navyColor: '#0a192f',
   darkNavyColor: '#ffffff',
 
