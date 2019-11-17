@@ -5,7 +5,7 @@ const { colors, fontSizes, fonts } = theme;
 const Button = styled.button`
   color: ${colors.green};
   background-color: transparent;
-  border: 1px solid ${colors.white};
+  border: 1px solid ${colors.darkBlue};
   border-radius: ${theme.borderRadius};
   font-size: ${fontSizes.smallish};
   font-family: ${fonts.SFMono};
@@ -15,10 +15,9 @@ const Button = styled.button`
   transition: ${theme.transition};
   padding: 1.25rem 1.75rem;
 
-  &:hover,
   &:focus,
   &:active {
-    background-color: ${colors.transGreen};
+    background-color: ${colors.blue};
     outline: none;
   }
   &:after {

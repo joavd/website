@@ -31,7 +31,7 @@ const mixins = {
     &:hover,
     &:active,
     &:focus {
-      color: ${colors.orange};
+      color: ${colors.darkBlue};
       outline: 0;
     }
   `,
@@ -43,11 +43,11 @@ const mixins = {
     position: relative;
     transition: ${theme.transition};
     cursor: pointer;
-    color: ${colors.orange};
+    color: ${colors.blue};
     &:hover,
     &:focus,
     &:active {
-      color: ${colors.orange};
+      color: ${colors.darkBlue};
       outline: 0;
       &:after {
         width: 100%;
@@ -69,7 +69,7 @@ const mixins = {
   smallButton: css`
     color: ${colors.orange};
     background-color: transparent;
-    border: 1px solid ${colors.orange};
+    border: 1px solid ${colors.blue};
     border-radius: ${theme.borderRadius};
     padding: 0.75rem 1rem;
     font-size: ${fontSizes.smallish};
@@ -77,11 +77,11 @@ const mixins = {
     line-height: 1;
     text-decoration: none;
     cursor: pointer;
-    transition: ${theme.orange};
+    transition: ${theme.darkBlue};
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.orange};
+      background-color: ${colors.darkBlue};
     }
     &:after {
       display: none !important;
@@ -91,7 +91,7 @@ const mixins = {
   bigButton: css`
     color: ${colors.orange};
     background-color: transparent;
-    border: 1px solid ${colors.orange};
+    border: 1px solid ${colors.blue};
     border-radius: ${theme.borderRadius};
     padding: 1.25rem 1.75rem;
     font-size: ${fontSizes.small};
@@ -103,7 +103,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.orange};
+      background-color: ${colors.darkBlue};
     }
     &:after {
       display: none !important;
@@ -118,12 +118,12 @@ const mixins = {
   `,
 
   boxShadow: css`
-    box-shadow: 0 10px 30px -15px ${colors.orange};
+    box-shadow: 0 10px 30px -15px ${colors.blue};
     transition: ${theme.transition};
 
     &:hover,
     &:focus {
-      box-shadow: 0 20px 30px -15px ${colors.orange};
+      box-shadow: 0 20px 30px -15px ${colors.darkBlue};
     }
   `,
 };

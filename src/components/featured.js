@@ -33,7 +33,7 @@ const FeaturedLabel = styled.h4`
   padding-top: 0;
 `;
 const ProjectName = styled.h5`
-  font-size: 28px;
+  font-size: 60px;
   font-weight: 600;
   margin: 0 0 20px;
   color: ${colors.lightestSlate};
@@ -215,8 +215,6 @@ const Featured = ({ data }) => {
       <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
 
       <div>
-        <div>nega</div>
-
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;

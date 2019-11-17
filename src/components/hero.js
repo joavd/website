@@ -17,7 +17,7 @@ const HeroContainer = styled(Section)`
   }
 `;
 const Hi = styled.h1`
-  color: ${colors.green};
+  color: ${colors.darkBlue};
   margin: 0 0 20px 3px;
   font-size: ${fontSizes.medium};
   font-family: ${fonts.SFMono};
@@ -66,16 +66,16 @@ const Hero = ({ data }) => {
 
   const { frontmatter, html } = data[0].node;
 
-  const one = () => <Hi style={{ transitionDelay: '100ms' }}>{frontmatter.title}</Hi>;
-  const two = () => <Name style={{ transitionDelay: '200ms' }}>{frontmatter.name}.</Name>;
+  const one = () => <Hi style={{ transitionDelay: '50ms' }}>{frontmatter.title}</Hi>;
+  const two = () => <Name style={{ transitionDelay: '100ms' }}>{frontmatter.name}.</Name>;
   const three = () => (
-    <Subtitle style={{ transitionDelay: '300ms' }}>{frontmatter.subtitle}</Subtitle>
+    <Subtitle style={{ transitionDelay: '150ms' }}>{frontmatter.subtitle}</Subtitle>
   );
   const four = () => (
-    <Blurb style={{ transitionDelay: '400ms' }} dangerouslySetInnerHTML={{ __html: html }} />
+    <Blurb style={{ transitionDelay: '200ms' }} dangerouslySetInnerHTML={{ __html: html }} />
   );
   const five = () => (
-    <div style={{ transitionDelay: '500ms' }}>
+    <div style={{ transitionDelay: '250ms' }}>
       <EmailLink href={`mailto:${email}`}>Get In Touch</EmailLink>
     </div>
   );

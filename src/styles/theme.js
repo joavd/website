@@ -13,7 +13,7 @@ const theme = {
     lightSlate: '#a8b2d1',
     lightestSlate: '#ccd6f6',
     offWhite: '#dce7ff',
-    white: '#e6f1ff',
+    white: '#ffffff',
     pink: '#FF647F',
     yellow: '#FFC464',
     orange: '#FF9E64',
@@ -24,6 +24,8 @@ const theme = {
     transGreen: 'rgba(100, 255, 218, 0.07)',
     transNavy: 'rgba(10, 25, 47, 0.7)',
     shadowNavy: 'rgba(2, 12, 27, 0.7)',
+    transDark: 'rgba(0, 0, 0, 0.85)',
+    transBlue: 'rgba(41, 61, 90, 0.5)',
   },
 
   fonts: {

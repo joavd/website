@@ -15,7 +15,7 @@ const NavContainer = styled.header`
   position: fixed;
   top: 0;
   padding: 0px 50px;
-  background-color: ${colors.white};
+  background-color: ${colors.transDark};
   transition: ${theme.transition};
   z-index: 11;
   filter: none !important;
@@ -35,7 +35,7 @@ const Navbar = styled.nav`
   ${mixins.flexBetween};
   position: relative;
   width: 100%;
-  color: ${colors.white};
+  color: ${colors.slate};
   font-family: ${fonts.SFMono};
   counter-reset: item 0;
   z-index: 12;
@@ -51,7 +51,7 @@ const LogoLink = styled.a`
   &:hover,
   &:focus {
     svg {
-      fill: ${colors.orange};
+      fill: ${colors.transBlue};
     }
   }
   svg {
@@ -83,7 +83,7 @@ const HamburgerBox = styled.div`
   height: 24px;
 `;
 const HamburgerInner = styled.div`
-  background-color: ${colors.green};
+  background-color: ${colors.darkBlue};
   position: absolute;
   width: ${theme.hamburgerWidth}px;
   height: 2px;
@@ -102,7 +102,7 @@ const HamburgerInner = styled.div`
   &:after {
     content: '';
     display: block;
-    background-color: ${colors.green};
+    background-color: ${colors.darkBlue};
     position: absolute;
     left: auto;
     right: 0;
@@ -144,7 +144,7 @@ const NavListItem = styled.li`
   &:before {
     content: '0' counter(item) '.';
     text-align: right;
-    color: ${colors.green};
+    color: ${colors.darkBlue};
     font-size: ${fontSizes.xsmall};
   }
 `;
