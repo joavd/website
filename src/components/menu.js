@@ -23,6 +23,7 @@ const MenuContainer = styled.div`
 `;
 const Sidebar = styled.div`
   ${mixins.flexCenter};
+  color: ${colors.lightestSlate};
   flex-direction: column;
   background-color: ${colors.transDark};
   padding: 50px;
@@ -32,7 +33,7 @@ const Sidebar = styled.div`
   right: 0;
   margin-left: auto;
   font-family: ${fonts.SFMono};
-  box-shadow: -10px 0px 30px -15px ${colors.pink};
+  box-shadow: -10px 0px 30px -15px ${colors.darkBlue};
   ${media.thone`padding: 25px;`};
   ${media.phablet`width: 75vw;`};
   ${media.tiny`padding: 10px;`};
