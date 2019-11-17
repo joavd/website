@@ -68,7 +68,7 @@ const Tab = styled.button`
   white-space: nowrap;
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.smallish};
-  color: ${props => (props.isActive ? colors.darkBlue : colors.lightGrey)};
+  color: ${props => (props.isActive ? colors.darkBlue : colors.darkGrey)};
   ${media.tablet`padding: 0 15px 2px;`};
   ${media.thone`
     ${mixins.flexCenter};
@@ -168,7 +168,7 @@ const JobDetails = styled.h5`
   font-size: ${fontSizes.smallish};
   font-weight: normal;
   letter-spacing: 0.5px;
-  color: ${colors.lightSlate};
+  color: ${colors.darkGrey};
   margin-bottom: 30px;
   svg {
     width: 15px;

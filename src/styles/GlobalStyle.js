@@ -181,7 +181,7 @@ const GlobalStyle = createGlobalStyle`
   h4,
   h5 {
     font-weight: 600;
-    color: ${colors.darkestNavy};
+    color: ${colors.dark};
     margin: 0 0 10px 0;
   }
 
@@ -229,7 +229,7 @@ const GlobalStyle = createGlobalStyle`
 
     &:focus,
     &:active {
-      outline-color: ${colors.blue};
+      outline-color: ${colors.transBlue};
     }
   }
 

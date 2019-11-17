@@ -24,7 +24,7 @@ const NavContainer = styled.header`
   width: 100%;
   height: ${props => (props.scrollDirection === 'none' ? theme.navHeight : theme.navScrollHeight)};
   box-shadow: ${props =>
-    props.scrollDirection === 'up' ? `0 10px 30px -10px ${colors.shadowNavy}` : 'none'};
+    props.scrollDirection === 'up' ? `0 10px 30px -10px ${colors.transDark}` : 'none'};
   transform: translateY(
     ${props => (props.scrollDirection === 'down' ? `-${theme.navScrollHeight}` : '0px')}
   );
@@ -35,7 +35,7 @@ const Navbar = styled.nav`
   ${mixins.flexBetween};
   position: relative;
   width: 100%;
-  color: ${colors.slate};
+  color: ${colors.lightestSlate};
   font-family: ${fonts.SFMono};
   counter-reset: item 0;
   z-index: 12;
