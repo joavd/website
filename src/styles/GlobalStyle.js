@@ -172,7 +172,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   ::selection {
-    background-color: ${colors.highlight};
+    background-color: ${colors.lightestSlate};
   }
 
   h1,
@@ -217,7 +217,7 @@ const GlobalStyle = createGlobalStyle`
 
     &:hover,
     &:focus {
-      color: ${colors.orange};
+      color: ${colors.darkBlue};
       outline: 0;
     }
   }

@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+The Artificer is a 1st person Puzzle-Adventure game set in the underground mines. Play as a craftsmen goblin looking to reach the top of the mountains using his inventions and combine magical gems to create incredible powers!
