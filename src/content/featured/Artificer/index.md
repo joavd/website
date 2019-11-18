@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'The Artificer'
 cover: './octoprofile.png'
 github: 'https://github.com/bchiang7/octoprofile'
