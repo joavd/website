@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Toa Toa'
 cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
