@@ -26,6 +26,11 @@ const theme = {
     shadowNavy: 'rgba(2, 12, 27, 0.7)',
     transDark: 'rgba(0, 0, 0, 0.85)',
     transBlue: 'rgba(29, 127, 252, 0.5)',
+
+    neutral: '#EFEFEF',
+    watermelon: '#FF3B3F',
+    sky: '#CAEBF2',
+    carbon: '#A9A9A9',
   },
 
   fonts: {

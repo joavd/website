@@ -3,7 +3,7 @@ date: '2016-03-12'
 title: 'Intern'
 company: 'Siemens'
 location: 'Lisbon, Portugal'
-range: 'April - July 2017'
+range: 'January - March 2016'
 url: 'https://new.siemens.com/pt/en.html'
 ---
 
