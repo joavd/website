@@ -150,7 +150,7 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: ${colors.white};
+    background-color: ${colors.neutral};
     color: ${colors.dark};
     line-height: 1.3;
     font-family: ${fonts.Calibre};

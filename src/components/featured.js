@@ -27,7 +27,7 @@ const ContentContainer = styled.div`
 const FeaturedLabel = styled.h4`
   font-size: ${fontSizes.smallish};
   font-weight: normal;
-  color: ${colors.green};
+  color: ${colors.darkBlue};
   font-family: ${fonts.SFMono};
   margin-top: 10px;
   padding-top: 0;
@@ -36,7 +36,7 @@ const ProjectName = styled.h5`
   font-size: 60px;
   font-weight: 600;
   margin: 0 0 20px;
-  color: ${colors.lightestSlate};
+  color: ${colors.darkGrey};
   ${media.tablet`font-size: 24px;`};
   ${media.thone`color: ${colors.white};`};
   a {
@@ -48,8 +48,8 @@ const ProjectDescription = styled.div`
   position: relative;
   z-index: 2;
   padding: 25px;
-  background-color: ${colors.lightNavy};
-  color: ${colors.lightSlate};
+  background-color: ${colors.sky};
+  color: ${colors.carbon};
   font-size: ${fontSizes.large};
   border-radius: ${theme.borderRadius};
   ${media.thone`
@@ -123,7 +123,7 @@ const ImgContainer = styled.a`
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.green};
+  background-color: ${colors.watermelon};
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
