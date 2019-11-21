@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'MAD'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
@@ -8,10 +8,10 @@ tech:
   - Unity
   - C#
   - 3D
-  - Online Multiplayer
+  - Online
   - Motion Capture
-  - WIP
+  - W.I.P.
 show: 'true'
 ---
 
-Morituri Arenam Dominus is a mix of a Multiplayer Arena Slasher and a Gladiator Manager. Buy gladiators and take control of them for blood and glory against opposing schools!
+MAD is a mix of a Multiplayer Arena Slasher and a Gladiator Manager. Buy gladiators and take control of them for blood and glory against opposing schools!

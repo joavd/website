@@ -38,7 +38,7 @@ const ProjectName = styled.h5`
   margin: 0 0 20px;
   color: ${colors.darkGrey};
   ${media.tablet`font-size: 24px;`};
-  ${media.thone`color: ${colors.white};`};
+  ${media.thone`color: ${colors.dark};`};
   a {
     ${media.tablet`display: block;`};
   }
@@ -48,8 +48,8 @@ const ProjectDescription = styled.div`
   position: relative;
   z-index: 2;
   padding: 25px;
-  background-color: ${colors.sky};
-  color: ${colors.carbon};
+  background-color: ${colors.lightNavy};
+  color: ${colors.lightestSlate};
   font-size: ${fontSizes.large};
   border-radius: ${theme.borderRadius};
   ${media.thone`
@@ -123,7 +123,7 @@ const ImgContainer = styled.a`
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.watermelon};
+  background-color: ${colors.lightestSlate};
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};

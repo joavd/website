@@ -2,13 +2,12 @@
 date: '1'
 title: 'Toa Toa'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://mega.nz/#F!RDZWQaCB!urjH5otSeM1RN2vgM5KTjQ'
 tech:
   - Unity
   - C#
   - 3D
-  - 3 month project
+  - 2 month project
 show: 'true'
 ---
 
