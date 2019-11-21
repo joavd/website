@@ -19,7 +19,7 @@ const theme = {
     orange: '#FF9E64',
     green: '#64ffda',
     blue: '#71AFFF',
-    darkBlue: '#1D7FFC',
+    darkBlue: '#20B2AA',
     darkBlu: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
     transGreen: 'rgba(100, 255, 218, 0.07)',
