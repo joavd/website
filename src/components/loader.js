@@ -9,7 +9,7 @@ const { colors } = theme;
 
 const LoaderContainer = styled.div`
   ${mixins.flexCenter};
-  background-color: ${colors.white};
+  background-color: ${colors.neutral};
   position: fixed;
   width: 100%;
   height: 100%;

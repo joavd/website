@@ -2,8 +2,7 @@
 date: '2'
 title: 'The Artificer'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+external: 'https://mega.nz/#F!xaRA2SyA!Os3AuNdU8Z9zrk22lmLYCA'
 tech:
   - Unity
   - C#
