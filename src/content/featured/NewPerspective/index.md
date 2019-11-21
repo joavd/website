@@ -6,8 +6,8 @@ github: ''
 external: 'https://mega.nz/#F!ofZ3BCZK!0YaRR7YMESFSk4LkZ-CCzA'
 tech:
   - Unity
-  - 3D
   - C#
+  - 3D
   - VR
   - W.I.P.
 show: 'true'

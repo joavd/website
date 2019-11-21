@@ -48,7 +48,7 @@ const ProjectDescription = styled.div`
   position: relative;
   z-index: 2;
   padding: 25px;
-  background-color: ${colors.lightNavy};
+  background-color: ${colors.transDark};
   color: ${colors.lightestSlate};
   font-size: ${fontSizes.large};
   border-radius: ${theme.borderRadius};
