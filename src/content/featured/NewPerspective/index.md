@@ -1,11 +1,11 @@
 ---
 date: '2'
-title: 'New Perception'
+title: 'Dis-perception'
 cover: './google-keep-clone.png'
 tech:
   - Unity
-  - 3D
   - C#
+  - 3D
   - VR
   - W.I.P.
 show: 'true'

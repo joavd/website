@@ -99,11 +99,10 @@ const Footer = ({ githubInfo }) => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/bchiang7/v4"
+        href="https://github.com/JoaoAVDuarte"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        <div>Template by Brittany Chiang</div>
-
+        <div>Made by João Duarte</div>
         {githubInfo.stars && githubInfo.forks && (
           <GithubInfo>
             <span>
