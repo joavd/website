@@ -2,8 +2,8 @@
 date: '4'
 title: 'MAD'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: ''
+external: 'https://mega.nz/#F!5bJF3QBR!IT3IjeGnx5rw1xHzPkhI5A'
 tech:
   - Unity
   - C#
