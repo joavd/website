@@ -6,8 +6,6 @@ import {
   IconCodepen,
   IconInstagram,
   IconTwitter,
-  IconStar,
-  IconFork,
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -102,19 +100,8 @@ const Footer = ({ githubInfo }) => (
         href="https://github.com/JoaoAVDuarte"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        <div>Made by João Duarte</div>
-        {githubInfo.stars && githubInfo.forks && (
-          <GithubInfo>
-            <span>
-              <IconStar />
-              <span>{githubInfo.stars}</span>
-            </span>
-            <span>
-              <IconFork />
-              <span>{githubInfo.forks}</span>
-            </span>
-          </GithubInfo>
-        )}
+        <div>Made with &#9829; by João Duarte</div>
+        {githubInfo.stars && githubInfo.forks && <GithubInfo></GithubInfo>}
       </GithubLink>
     </Copy>
   </FooterContainer>
