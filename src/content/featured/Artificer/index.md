@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'The Artificer'
-cover: './octoprofile.png'
+cover: './artificer.jpeg'
 external: 'https://mega.nz/#F!xaRA2SyA!Os3AuNdU8Z9zrk22lmLYCA'
 tech:
   - Unity
