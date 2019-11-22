@@ -65,7 +65,7 @@ const AvatarContainer = styled.a`
   width: 100%;
   position: relative;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.darkBlue};
+  background-color: ${colors.lightestSlate};
   margin-left: -20px;
   &:hover,
   &:focus {

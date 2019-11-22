@@ -12,4 +12,4 @@ tech:
 show: 'true'
 ---
 
-A game made to simplify and teach Match ( basic Functions, specifically) to deaf kids. Control an airplane through a visual representation of a function.
+A game made to simplify and teach Math (basic Functions, specifically) to deaf kids. Control an airplane through a visual representation of a function.
