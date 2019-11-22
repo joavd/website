@@ -123,7 +123,7 @@ const ImgContainer = styled.a`
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.lightestSlate};
+  background-color: ${colors.neutral};
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
