@@ -50,8 +50,15 @@ const LogoLink = styled.a`
   height: 42px;
   &:hover,
   &:focus {
+    #j {
+      fill: ${colors.lightestSlate};
+    }
+    #d {
+      fill: ${colors.lightestSlate};
+    }
     svg {
-      fill: ${colors.transBlue};
+      fill: ${colors.darkBlue};
+      stroke-width: 2px;
     }
   }
   svg {
