@@ -81,7 +81,8 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.transBlue};
+      color: ${colors.lightestSlate};
+      background-color: ${colors.darkBlue};
     }
     &:after {
       display: none !important;
@@ -103,7 +104,8 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: ${colors.transBlue};
+      color: ${colors.lightestSlate};
+      background-color: ${colors.darkBlue};
     }
     &:after {
       display: none !important;
@@ -118,7 +120,7 @@ const mixins = {
   `,
 
   boxShadow: css`
-    box-shadow: 0 10px 30px -15px ${colors.darkBlue};
+    box-shadow: 0 10px 30px -15px ${colors.transDark};
     transition: ${theme.transition};
 
     &:hover,
