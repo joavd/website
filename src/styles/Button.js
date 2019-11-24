@@ -18,7 +18,8 @@ const Button = styled.button`
   &:hover,
   &:focus,
   &:active {
-    background-color: ${colors.transBlue};
+    color: ${colors.lightestSlate};
+    background-color: ${colors.darkBlue};
     outline: none;
   }
   &:after {
