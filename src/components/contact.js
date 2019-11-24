@@ -41,7 +41,6 @@ const Title = styled.h4`
 const EmailLink = styled.a`
   ${mixins.bigButton};
   margin-top: 50px;
-  color: red;
 `;
 
 const Contact = ({ data }) => {
