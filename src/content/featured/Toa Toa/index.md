@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Toa Toa'
-cover: './demo.png'
+cover: './toatoa.jpeg'
 external: 'https://mega.nz/#F!RDZWQaCB!urjH5otSeM1RN2vgM5KTjQ'
 tech:
   - Unity

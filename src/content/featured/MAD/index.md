@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'MAD'
-cover: './halcyon.png'
+cover: './mad.png'
 github: ''
 external: 'https://mega.nz/#F!5bJF3QBR!IT3IjeGnx5rw1xHzPkhI5A'
 tech:
