@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2019-05-05'
 title: 'MAD'
 cover: './mad.png'
 github: ''
