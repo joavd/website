@@ -47,7 +47,6 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      color: ${colors.darkBlue};
       outline: 0;
       &:after {
         width: 100%;
