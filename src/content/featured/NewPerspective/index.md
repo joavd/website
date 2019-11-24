@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '2019-02-02'
 title: 'Dis-perception'
-cover: './google-keep-clone.png'
+cover: './dis.jpg'
 github: ''
 external: 'https://mega.nz/#F!ofZ3BCZK!0YaRR7YMESFSk4LkZ-CCzA'
 tech:

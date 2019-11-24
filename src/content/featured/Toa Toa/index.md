@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2018-05-05'
 title: 'Toa Toa'
 cover: './toatoa.jpeg'
 external: 'https://mega.nz/#F!RDZWQaCB!urjH5otSeM1RN2vgM5KTjQ'

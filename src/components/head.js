@@ -2,10 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import config from '@config';
-import favicon from '@images/favicons/favicon.ico';
-import favicon32x32 from '@images/favicons/favicon-32x32.png';
-import favicon96x96 from '@images/favicons/favicon-96x96.png';
-import favicon16x16 from '@images/favicons/favicon-16x16.png';
+import favicon from '@images/logo.png';
 
 const Head = ({ metadata }) => (
   <Helmet>
@@ -29,9 +26,6 @@ const Head = ({ metadata }) => (
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
 
-    <link rel="icon" type="image/png" sizes="32x32" href={favicon32x32} />
-    <link rel="icon" type="image/png" sizes="96x96" href={favicon96x96} />
-    <link rel="icon" type="image/png" sizes="16x16" href={favicon16x16} />
     <meta name="msapplication-TileColor" content={config.navyColor} />
     <meta name="theme-color" content={config.navyColor} />
   </Helmet>

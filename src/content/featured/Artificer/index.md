@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2019-04-04'
 title: 'The Artificer'
 cover: './artificer.jpeg'
 external: 'https://mega.nz/#F!xaRA2SyA!Os3AuNdU8Z9zrk22lmLYCA'
