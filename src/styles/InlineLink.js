@@ -13,7 +13,7 @@ const InlineLink = styled.a`
   &:hover,
   &:focus,
   &:active {
-    color: ${colors.transBlue};
+    color: ${colors.darkBlue};
     outline: 0;
     &:after {
       width: 100%;
