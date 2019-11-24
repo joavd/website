@@ -65,7 +65,7 @@ const AvatarContainer = styled.a`
   width: 100%;
   position: relative;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.neutral};
+  background-color: ${colors.blue};
   margin-left: -20px;
   &:hover,
   &:focus {
@@ -94,7 +94,8 @@ const AvatarContainer = styled.a`
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: ${colors.darkBlue};
+    transition: ${theme.transition};
+    background-color: ${colors.darkNavy};
     mix-blend-mode: screen;
   }
   &:after {
