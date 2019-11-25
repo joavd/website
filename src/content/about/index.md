@@ -2,7 +2,7 @@
 title: 'About Me'
 avatar: './me.png'
 skills:
-  - .NET
+  - .NET/C#
   - Java
   - C/C++
   - JavaScript
