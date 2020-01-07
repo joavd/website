@@ -3,10 +3,12 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import config from '@config';
 import favicon from '@images/logo.png';
+import ogImage from '@images/og.png';
 
 const Head = ({ metadata }) => (
   <Helmet>
     <html lang="en" />
+
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
@@ -25,6 +27,10 @@ const Head = ({ metadata }) => (
     <meta property="og:locale" content={config.siteLanguage} />
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
+    <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:type" content="image/png" />
 
     <meta name="msapplication-TileColor" content={config.navyColor} />
     <meta name="theme-color" content={config.navyColor} />
