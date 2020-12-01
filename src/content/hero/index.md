@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'João Duarte'
-subtitle: 'I build videogames and applications.'
-contactText: 'Get In Touch'
+subtitle: 'I turn ideas into code'
+contactText: 'Get in Touch'
 ---
 
-I'm a Junior Programmer and Game Developer living in Lisbon, PT specializing in building videogames and applications.
+I'm a Junior Developer and Game Programmer based in Lisbon, PT with industry experience building and designing videogames and applications.

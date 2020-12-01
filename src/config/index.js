@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'João Duarte | Junior Programmer',
+  siteTitle: 'João Duarte',
   siteDescription:
-    'João Duarte is a Junior Programmer and a Game Developer living in Lisbon, Portugal specializing in building and designing applications and videogames.',
+    'Polyvalent and practical Junior Developer and Game Programmer based in Lisbon, PT with industry experience building and designing applications and videogames.',
   siteKeywords:
-    'João Duarte, João, Duarte, JoaoAVDuarte, Junior Programmer, Game developer, unity, unreal, web developer, javascript, portugal',
+    'João Duarte, João, Duarte, JoaoAVDuarte, Junior Programmer, Junior Developer, Game Programmer, Game developer, unity, unreal, web developer, javascript, portugal',
   siteUrl: 'https://joaoduarte.netlify.com',
   siteLanguage: 'en_US',
   name: 'João Duarte',
