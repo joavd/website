@@ -5,4 +5,4 @@ subtitle: 'I turn ideas into code'
 contactText: 'Get in Touch'
 ---
 
-I'm a Junior Developer and Game Programmer based in Lisbon, PT with industry experience building and designing videogames and applications.
+I'm a Junior Developer and Game Programmer based in Lisbon, PT with industry experience in building and designing videogames and applications.
