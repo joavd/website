@@ -7,18 +7,13 @@ module.exports = {
     description: config.siteDescription,
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-styled-components`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sitemap`,
-    `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          'G-KGCBX9S4EN', // Google Analytics / GA
+          'G-YQCV22G00R', // Google Analytics / GA
+          'G-KGCBX9S4EN',
         ],
         // This object gets passed directly to the gtag config command
         // This config will be shared across all trackingIds
@@ -30,11 +25,16 @@ module.exports = {
         pluginConfig: {
           // Puts tracking script in the head instead of the body
           head: false,
-          // Setting this parameter is also optional
           respectDNT: true,
         },
       },
     },
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

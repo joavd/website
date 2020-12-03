@@ -19,8 +19,10 @@ const Head = ({ metadata }) => (
     <meta property="og:title" content={metadata.title} />
     <meta property="og:description" content={metadata.description} />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content={metadata.siteUrl} />
+    <meta property="og:url" content={config.name} />
+    <meta property="author" content={metadata.title} />
     <meta property="og:site_name" content={metadata.title} />
+    <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/png" />
@@ -28,9 +30,6 @@ const Head = ({ metadata }) => (
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
     <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:image:type" content="image/png" />
 
     <meta name="msapplication-TileColor" content={config.navyColor} />
     <meta name="theme-color" content={config.navyColor} />
