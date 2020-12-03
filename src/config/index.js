@@ -6,6 +6,7 @@ module.exports = {
     'João Duarte, João, Duarte, JoaoAVDuarte, Junior Programmer, Junior Developer, Game Programmer, Game developer, unity, unreal, web developer, javascript, portugal',
   siteUrl: 'https://joaoduarte.netlify.com',
   siteLanguage: 'en_US',
+  image: '',
   name: 'João Duarte',
   location: 'Lisbon, Portugal',
   email: 'jaduarte1998@gmail.com',
