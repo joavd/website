@@ -123,8 +123,13 @@ const ImgContainer = styled.a`
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.blue};
   border-radius: ${theme.radius + 1}px;
+  background: transparent;
+  ${FeaturedImg} {
+    background: transparent;
+    filter: none;
+  }
+  filter: none;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
   ${media.thone`
@@ -151,7 +156,10 @@ const ImgContainer = styled.a`
     bottom: 0;
     z-index: 3;
     transition: ${theme.transition};
-    background-color: ${colors.navy};
+    ${FeaturedImg} {
+      background: transparent;
+      filter: none;
+    }
     mix-blend-mode: screen;
   }
 `;
