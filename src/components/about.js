@@ -65,7 +65,11 @@ const AvatarContainer = styled.a`
   width: 100%;
   position: relative;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.slate};
+  background: transparent;
+  ${Avatar} {
+    filter: none;
+    mix-blend-mode: normal;
+  }
   margin-left: -20px;
   &:hover,
   &:focus {
@@ -95,7 +99,10 @@ const AvatarContainer = styled.a`
     right: 0;
     bottom: 0;
     transition: ${theme.transition};
-    background-color: ${colors.darkBlue};
+    ${Avatar} {
+      filter: none;
+      mix-blend-mode: normal;
+    }
     mix-blend-mode: screen;
   }
   &:after {
