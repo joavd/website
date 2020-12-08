@@ -1,13 +1,12 @@
 ---
-date: '2019-04-04'
+date: '2019-05-05'
 title: 'The Artificer'
 cover: './artificer.jpeg'
-external: 'https://mega.nz/#F!xaRA2SyA!Os3AuNdU8Z9zrk22lmLYCA'
+external: 'https://drive.google.com/drive/folders/1pagOdi4L78Q8eElJ350esaOxfV3MgSGr?usp=sharing'
 tech:
   - Unity
   - C#
   - 3D
-  - 3 month project
 show: 'true'
 ---
 
