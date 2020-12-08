@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 import sr from '@utils/sr';
-import { srConfig, github } from '@config';
+import { srConfig, linkedin } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media, Section, Heading } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -130,7 +130,7 @@ const About = ({ data }) => {
           </SkillsContainer>
         </ContentContainer>
         <PicContainer>
-          <AvatarContainer href={github}>
+          <AvatarContainer href={linkedin}>
             <Avatar fluid={avatar.childImageSharp.fluid} alt="Avatar" />
           </AvatarContainer>
         </PicContainer>
