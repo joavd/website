@@ -105,10 +105,10 @@ const Menu = ({ menuOpen, toggleMenu }) => {
               ))}
           </NavList>
           <ResumeLink
-            href="/JoaoDuarte_ResumeCV.pdf"
+            href="/JoaoDuarte_CVResume.pdf"
             target="_blank"
             rel="nofollow noopener noreferrer">
-            Resume / CV
+            CV / Resume
           </ResumeLink>
         </NavLinks>
       </Sidebar>

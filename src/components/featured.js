@@ -134,7 +134,9 @@ const ImgContainer = styled.a`
   ${media.tablet`height: 100%;`};
   ${media.thone`
     grid-column: 1 / -1;
-    opacity: 0.25;
+    opacity: 1;
+    background: transparent;
+    background-color: ${colors.transDark};
   `};
   &:hover,
   &:focus {
@@ -202,7 +204,9 @@ const Project = styled.div`
       ${media.tablet`height: 100%;`};
       ${media.thone`
         grid-column: 1 / -1;
-        opacity: 0.25;
+        opacity: 1;
+        background: transparent;
+        background-color: ${colors.transDark};
       `};
     }
   }
