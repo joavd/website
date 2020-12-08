@@ -1,16 +1,14 @@
 ---
-date: '2019-05-05'
+date: '2019-04-04'
 title: 'MAD'
 cover: './mad.png'
-github: ''
+github: 'https://dev.azure.com/onlyneplayer/_git/MAD-game'
 external: 'https://mega.nz/#F!5bJF3QBR!IT3IjeGnx5rw1xHzPkhI5A'
 tech:
   - Unity
   - C#
   - 3D
   - Online
-  - Motion Capture
-  - W.I.P.
 show: 'true'
 ---
 

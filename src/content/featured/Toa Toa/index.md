@@ -2,12 +2,11 @@
 date: '2018-05-05'
 title: 'Toa Toa'
 cover: './toatoa.jpeg'
-external: 'https://mega.nz/#F!RDZWQaCB!urjH5otSeM1RN2vgM5KTjQ'
+external: 'https://drive.google.com/drive/folders/1xLoTlz5Ki0sf191I6Q6lDKtL8tggEUfb?usp=sharing'
 tech:
   - Unity
   - C#
   - 3D
-  - 2 month project
 show: 'true'
 ---
 
