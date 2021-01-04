@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '2017-10-01'
 title: 'Unity Mergetool tutorial'
 image: ''
 github: 'https://github.com/JoaoAVDuarte/Unity-Mergetool'

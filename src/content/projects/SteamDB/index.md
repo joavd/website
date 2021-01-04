@@ -1,13 +1,12 @@
 ---
-date: '2017-06-22'
+date: '2017-08-22'
 title: 'Steam Database'
 image: ''
 github: 'https://github.com/JoaoAVDuarte/Steam-DB_LP2'
 external: ''
 tech:
-  - Windows Forms
   - C#
-  - Markdown
+  - Windows Forms
 show: 'true'
 ---
 
