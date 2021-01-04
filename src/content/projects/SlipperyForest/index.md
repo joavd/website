@@ -2,7 +2,7 @@
 date: '2017-03-01'
 title: 'Slippery Forest'
 image: ''
-github: ''
+github: 'https://github.com/JoaoAVDuarte/SlipperyMagicForest'
 external: ''
 tech:
   - Unity
