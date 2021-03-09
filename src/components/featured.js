@@ -38,7 +38,7 @@ const ProjectName = styled.h5`
   margin: 0 0 20px;
   color: ${colors.darkGrey};
   ${media.tablet`font-size: 24px;`};
-  ${media.thone`color: ${colors.dark};`};
+  ${media.thone`color: ${colors.darkBlue};`};
   a {
     ${media.tablet`display: block;`};
   }
