@@ -97,7 +97,7 @@ const Footer = ({ githubInfo }) => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/JoaoAVDuarte"
+        href="https://github.com/JoaoAVDuarte/website"
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Made with &#9829; by João Duarte</div>
