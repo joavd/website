@@ -10,5 +10,7 @@ url: 'https://vivadrive.io/'
 - Developed the automatic detection and localization of captured footage on the 3D space using open source SLAM and point cloud registration algorithms
 - Developed the image recognition of captured footage to detect specific objects using Yolo
 - Documented and tested the previous and ongoing development
-- Worked directly with external client Vinçotte using agile methodologies
+- Worked directly with external client [Vinçotte](https://www.vincotte.com/) using agile methodologies
 - Use of Python
+
+International experience in Warsaw, Poland under the Erasmus+ programme.
