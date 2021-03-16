@@ -2,7 +2,7 @@
 date: '2016-03-12'
 title: 'Test Automation Intern'
 company: 'Siemens'
-location: 'Lisbon, Portugal'
+location: 'Lisbon, PT'
 range: 'January - March 2016'
 url: 'https://new.siemens.com/pt/en.html'
 ---

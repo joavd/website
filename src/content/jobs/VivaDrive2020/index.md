@@ -2,7 +2,7 @@
 date: '2020-09-26'
 title: 'Software Developer / Computer Vision Intern'
 company: 'VivaDrive'
-location: 'Warsaw, Poland'
+location: 'Warsaw, PL'
 range: 'October 2020 - February 2021'
 url: 'https://vivadrive.io/'
 ---
