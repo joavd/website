@@ -230,7 +230,7 @@ const Jobs = ({ data }) => {
                   </JobTitle>
                   <JobDetails>
                     <span>
-                      {range} &nbsp;|&nbsp; {location}
+                      {range} &nbsp;&#183;&nbsp; {location}
                     </span>
                   </JobDetails>
                   <div dangerouslySetInnerHTML={{ __html: html }} />

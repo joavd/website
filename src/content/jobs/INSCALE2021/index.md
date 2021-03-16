@@ -1,8 +1,8 @@
 ---
-date: '2021-03-14'
+date: '2021-03-15'
 title: 'Junior Full-stack Developer'
 company: 'INSCALE'
-location: 'Lisbon, Portugal'
+location: 'Lisbon, PT'
 range: 'March 2021 - Present'
 url: 'https://www.inscale.net/'
 ---

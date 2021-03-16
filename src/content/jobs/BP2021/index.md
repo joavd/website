@@ -2,7 +2,7 @@
 date: '2021-03-15'
 title: 'Junior Full-stack Developer'
 company: 'Blue Prism'
-location: 'Remote, United Kingdom'
+location: 'Remote, UK'
 range: 'March 2021 - Present'
 url: 'https://www.blueprism.com/'
 ---

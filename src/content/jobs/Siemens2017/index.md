@@ -2,7 +2,7 @@
 date: '2017-07-12'
 title: 'Software Developer Intern'
 company: 'Siemens'
-location: 'Lisbon, Portugal'
+location: 'Lisbon, PT'
 range: 'April - July 2017'
 url: 'https://new.siemens.com/pt/en.html'
 ---
