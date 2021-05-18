@@ -4,7 +4,7 @@ module.exports = {
     'Polyvalent and practical Junior Developer and Game Programmer based in Lisbon, PT with industry experience building and designing applications and videogames.',
   siteKeywords:
     'João Duarte, João, Duarte, JoaoAVDuarte, Junior Programmer, Junior Developer, Game Programmer, Game developer, unity, unreal, web developer, javascript, portugal',
-  siteUrl: 'https://joaoavduarte.tech',
+  siteUrl: 'https://jvd.netlify.com',
   siteLanguage: 'en_US',
   image: '',
   name: 'João Duarte',

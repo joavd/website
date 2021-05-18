@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/JoaoAVDuarte/siteTest/master/src/images/logo.png?token=ADZYCHM3CVR7JNT5OCK4N33AKEJ5W" width="95" />
 </div>
 <h1 align="center">
-  joaoavduarte.tech
+  jvd.netlify.com
 </h1>
 <p align="center">
-  My personal website, available at <a href="https://joaoavduarte.tech" target="_blank">joaoavduarte.tech</a> Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  My personal website, available at <a href="https://jvd.netlify.com" target="_blank">jvd.netlify.com</a> Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
