@@ -7,5 +7,5 @@ range: 'March 2021 - Present'
 url: 'https://www.blueprism.com/'
 ---
 
-- Develop software solutions in RPA (Robotic Process Automation)
+- Develop software solutions
 - Use of C#, ASP.NET, SQL, React
