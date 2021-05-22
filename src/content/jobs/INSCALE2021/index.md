@@ -7,5 +7,5 @@ range: 'March 2021 - Present'
 url: 'https://www.inscale.net/'
 ---
 
-- Develop software solutions in for [Blue Prism](https://www.blueprism.com/)
-- Use of C#, ASP.NET, SQL, React
+- Develop software solutions for [Blue Prism](https://www.blueprism.com/)
+- Use of C#, React, ASP.NET, SQL
