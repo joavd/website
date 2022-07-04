@@ -2,19 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - C#
-  - Java
-  - C / C++
-  - Python
   - JavaScript
-  - HTML & CSS
+  - C#
+  - React
+  - C / C++
   - SQL
-  - Angular
+  - Python
   - Unity
   - Unreal
 ---
 
-Hello! I'm João, a Junior Developer and Game Programmer living in Lisbon, Portugal.
+Hello! I'm João, a Software Developer and Game Programmer living in Lisbon, Portugal.
 
 I enjoy creating things that allow me to think outside the box, like videogames and applications, using a wide variety of technologies. My goal is to learn a lot and provide great experiences.
 
