@@ -1,25 +1,25 @@
 module.exports = {
   siteTitle: 'João Duarte',
   siteDescription:
-    'Polyvalent and practical Junior Developer and Game Programmer based in Lisbon, PT with industry experience building and designing applications and videogames.',
+    'Polyvalent and practical Software Developer and Game Programmer based in Lisbon, PT with experience building and designing applications and videogames.',
   siteKeywords:
-    'João Duarte, João, Duarte, JoaoAVDuarte, Junior Programmer, Junior Developer, Game Programmer, Game developer, unity, unreal, web developer, javascript, portugal',
+    'João Duarte, João, Duarte, JoaoAVDuarte, Programmer, Software Developer, Game Programmer, Game developer, unity, unreal, web developer, javascript, portugal',
   siteUrl: 'https://jvd.netlify.com',
   siteLanguage: 'en_US',
   image: '',
   name: 'João Duarte',
   location: 'Lisbon, Portugal',
   email: 'jvd.k@aleeas.com',
-  github: 'https://github.com/JoaoAVDuarte',
-  linkedin: 'https://www.linkedin.com/in/JoaoAVDuarte/',
+  github: 'https://github.com/joavd',
+  linkedin: 'https://www.linkedin.com/in/joavd/',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/JoaoAVDuarte',
+      url: 'https://github.com/joavd',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/JoaoAVDuarte/',
+      url: 'https://www.linkedin.com/in/joavd/',
     },
   ],
 

@@ -120,10 +120,10 @@ const Projects = ({ data }) => {
     revealProjects.current.forEach((ref, i) => sr.reveal(ref, srConfig(i * 100)));
   }, []);
 
-  const GRID_LIMIT = 6;
+  const GRID_LIMIT = 3;
   const projects = data.filter(({ node }) => node.frontmatter.show === 'true');
-  const firstSix = projects.slice(0, GRID_LIMIT);
-  const projectsToShow = showMore ? projects : firstSix;
+  const firstThree = projects.slice(0, GRID_LIMIT);
+  const projectsToShow = showMore ? projects : firstThree;
 
   return (
     <ProjectsContainer>
