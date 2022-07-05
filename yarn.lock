@@ -1716,9 +1716,9 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@upstatement/eslint-config@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.npmjs.org/@upstatement/eslint-config/-/eslint-config-0.4.2.tgz"
+"@upstatement/eslint-config@0.4.3":
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/@upstatement/eslint-config/-/eslint-config-0.4.3.tgz#9cfbe22d15c0fee2f7154e9f61455c4e53718027"
 
 "@upstatement/prettier-config@^0.3.0":
   version "0.3.0"
