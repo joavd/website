@@ -9,7 +9,7 @@ module.exports = {
   image: '',
   name: 'João Duarte',
   location: 'Lisbon, Portugal',
-  email: 'jvd.k@aleeas.com',
+  email: 'jvd@dev.aleeas.com',
   github: 'https://github.com/joavd',
   linkedin: 'https://www.linkedin.com/in/joavd/',
   socialMedia: [
