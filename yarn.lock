@@ -2637,7 +2637,7 @@ babel-plugin-polyfill-regenerator@^0.3.1:
   dependencies:
     "@babel/helper-define-polyfill-provider" "^0.3.1"
 
-babel-plugin-remove-graphql-queries@^3.14.0, babel-plugin-remove-graphql-queries@^3.15.0:
+babel-plugin-remove-graphql-queries@^3.15.0:
   version "3.15.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-3.15.0.tgz#0f9802ce6eeabd877f6b166da01222f3911228ff"
   integrity sha512-b3cjrV3Q2UYCHtH/nBtOdbkcDiPlj85XCKIn4qc+vMojbLjOLNdkZoADiBH9vayhKPg8q5SA2wppuXzr6jufqQ==
@@ -5307,7 +5307,7 @@ gatsby-cli@^3.15.0:
     yoga-layout-prebuilt "^1.9.6"
     yurnalist "^2.1.0"
 
-gatsby-core-utils@^2.14.0, gatsby-core-utils@^2.15.0:
+gatsby-core-utils@^2.15.0:
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-2.15.0.tgz#144b214d75735664e64d2a6025ed589f4ecf5314"
   integrity sha512-QspRxfSgD4Yb5syp/yNPN+ljXgatfgqq4/TIIJw5mVxVMhNenb8mQ8ihVL5vdhV7x3wUjKTwVIjZ+eU/sMLz7g==
@@ -5399,22 +5399,22 @@ gatsby-page-utils@^1.15.0:
     lodash "^4.17.21"
     micromatch "^4.0.4"
 
-gatsby-plugin-image@^1.4.0:
-  version "1.14.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-1.14.2.tgz#3955e370d8eb96cd3675001220f315a66ad8ea06"
-  integrity sha512-5kw7sAjqrNfMz7E1oMVfOz4CrG6AtIQNYVl1jTAI9sAuTLz/EJEHOM2z54pFUk/irNkrhXDZyEnDjY2d06U7rQ==
+gatsby-plugin-image@^1.15.0:
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-1.15.0.tgz#0edca8b0b400a28d07c3dda3eb97f3bc73ed478b"
+  integrity sha512-hqPfu2jxLulBizN9okPo5sdKe4l5OvP9NsJ5n4F30SLpXFVvkkV7RAWv/3ZU+ZV/znYFdSqsJtUchUH6BpCzug==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/parser" "^7.15.5"
     "@babel/runtime" "^7.15.4"
     "@babel/traverse" "^7.15.4"
     babel-jsx-utils "^1.1.0"
-    babel-plugin-remove-graphql-queries "^3.14.0"
+    babel-plugin-remove-graphql-queries "^3.15.0"
     camelcase "^5.3.1"
     chokidar "^3.5.2"
     common-tags "^1.8.0"
     fs-extra "^10.0.0"
-    gatsby-core-utils "^2.14.0"
+    gatsby-core-utils "^2.15.0"
     objectFitPolyfill "^2.3.5"
     prop-types "^15.7.2"
 
