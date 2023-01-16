@@ -70,7 +70,7 @@
     "babel-preset-gatsby": "^2.24.0",
     "eslint": "^7.25.0",
     "eslint-config-prettier": "^8.6.0",
-    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-react": "^7.31.11",
     "gatsby-remark-code-titles": "^1.1.0",
     "husky": "^8.0.3",
