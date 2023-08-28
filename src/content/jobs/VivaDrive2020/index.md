@@ -9,8 +9,8 @@ url: 'https://vivadrive.io/'
 
 International experience in Warsaw, Poland under the Erasmus+ programme.
 
-- Developed the automatic detection and localization of captured footage on the 3D space using open source SLAM and point cloud registration algorithms
-- Developed the image recognition of captured footage to detect specific objects using Yolo
+- Developed and used open source SLAM and point cloud registration algorithms to automatically detect and localize captured footage on a 3D space
+- Helped develop an image recognition model of captured footage to detect specific objects using Yolov5
 - Documented and tested the previous and ongoing development
 - Worked directly with external client [Vinçotte](https://www.vincotte.com/) using agile methodologies
 - Use of Python

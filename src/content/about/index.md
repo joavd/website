@@ -2,14 +2,14 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript
   - C#
+  - JavaScript
   - React
   - C / C++
   - SQL
+  - MongoDB
   - Python
   - Unity
-  - Unreal
 ---
 
 Hello! I'm João, a Software Developer and Game Programmer living in Lisbon, Portugal.
