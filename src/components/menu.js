@@ -65,7 +65,7 @@ const NavListItem = styled.li`
     margin-bottom: 5px;
   }
 `;
-const NavLink = styled(Link)`
+const NavLink = styled.a`
   ${mixins.link};
   padding: 3px 20px 20px;
   width: 100%;
@@ -100,7 +100,8 @@ const Menu = ({ menuOpen, toggleMenu }) => {
             {navLinks &&
               navLinks.map(({ url, name }, i) => (
                 <NavListItem key={i}>
-                  <NavLink to={url}>{name}</NavLink>
+                  {/* <NavLink to={url}>{name}</NavLink> */}
+                  <NavLink href={url}>{name}</NavLink>
                 </NavListItem>
               ))}
           </NavList>

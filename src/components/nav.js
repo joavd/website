@@ -155,7 +155,7 @@ const NavListItem = styled.li`
     font-size: ${fontSizes.xsmall};
   }
 `;
-const NavLink = styled(Link)`
+const NavLink = styled.a`
   padding: 12px 10px;
 `;
 const ResumeLink = styled.a`
@@ -273,7 +273,7 @@ class Nav extends Component {
                   navLinks.map(({ url, name }, i) => (
                     <CSSTransition key={i} classNames="fadedown" timeout={3000}>
                       <NavListItem key={i} style={{ transitionDelay: `${i * 100}ms` }}>
-                        <NavLink to={url}>{name}</NavLink>
+                        <NavLink href={url}>{name}</NavLink>
                       </NavListItem>
                     </CSSTransition>
                   ))}
