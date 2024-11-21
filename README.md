@@ -5,7 +5,7 @@
   joavd.com
 </h1>
 <p align="center">
-  My personal website, available at <a href="https://joavd.com" target="_blank">joavd.com</a> Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  My personal website, available at <a href="https://joavd.com" target="_blank">joavd.com</a>. Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">

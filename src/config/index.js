@@ -1,10 +1,10 @@
 module.exports = {
-  siteTitle: 'João Duarte',
+  siteTitle: 'João Duarte - Full Stack Developer | Software Developer',
   siteDescription:
-    'Polyvalent and practical Software Developer and Game Programmer based in Lisbon, PT with experience building and designing applications and videogames.',
+    'Versatile Full Stack Developer based in Lisbon, PT with experience building and designing applications and videogames, with a focus on user-centered solutions.',
   siteKeywords:
     'João Duarte, João, Duarte, JOAVD, joavd, JoaoAVDuarte, Programmer, Software Developer, Game Programmer, Game developer, unity, unreal, web developer, javascript, portugal',
-  siteUrl: 'https://jvd.netlify.com',
+  siteUrl: 'https://joavd.com',
   siteLanguage: 'en_US',
   image: '',
   name: 'João Duarte',

@@ -1,11 +1,7 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import {
   IconGithub,
   IconLinkedin,
-  IconCodepen,
-  IconInstagram,
-  IconTwitter,
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -49,23 +45,8 @@ const Copy = styled.div`
 const GithubLink = styled.a`
   color: ${colors.slate};
 `;
-const GithubInfo = styled.div`
-  margin-top: 10px;
 
-  & > span {
-    display: inline-flex;
-    align-items: center;
-    margin: 0 7px;
-  }
-  svg {
-    display: inline-block;
-    height: 15px;
-    width: auto;
-    margin-right: 5px;
-  }
-`;
-
-const Footer = ({ githubInfo }) => (
+const Footer = () => (
   <FooterContainer>
     <SocialContainer>
       <SocialItemList>
@@ -81,12 +62,6 @@ const Footer = ({ githubInfo }) => (
                   <IconGithub />
                 ) : name === 'Linkedin' ? (
                   <IconLinkedin />
-                ) : name === 'Codepen' ? (
-                  <IconCodepen />
-                ) : name === 'Instagram' ? (
-                  <IconInstagram />
-                ) : name === 'Twitter' ? (
-                  <IconTwitter />
                 ) : (
                   <IconGithub />
                 )}
@@ -101,14 +76,9 @@ const Footer = ({ githubInfo }) => (
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Made with &#9829; by João Duarte</div>
-        {githubInfo.stars && githubInfo.forks && <GithubInfo></GithubInfo>}
       </GithubLink>
     </Copy>
   </FooterContainer>
 );
-
-Footer.propTypes = {
-  githubInfo: PropTypes.object,
-};
 
 export default Footer;
