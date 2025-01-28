@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/JoaoAVDuarte/siteTest/master/src/images/logo.png?token=ADZYCHM3CVR7JNT5OCK4N33AKEJ5W" width="95" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/joavd/website/master/src/images/logo.png" width="95" />
 </div>
 <h1 align="center">
   joavd.com
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/JoaoAVDuarte/siteTest/master/src/images/og.png?token=ADZYCHLGSRFEE6TEBQWUYGDAKEKPW)
+![demo](https://raw.githubusercontent.com/joavd/website/master/src/images/og.png)
 
 ## 🛠 Installation & Set Up
 
