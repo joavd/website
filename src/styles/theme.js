@@ -4,7 +4,7 @@ const theme = {
     darkGrey: '#333f58',
     slate: '#8892b0',
     lightSlate: '#a8b2d1',
-    lightestSlate: '#ccd6f6',,
+    lightestSlate: '#ccd6f6',
     pink: '#FF647F',
     darkBlue: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
