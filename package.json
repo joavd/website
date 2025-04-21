@@ -31,7 +31,7 @@
     ]
   },
   "dependencies": {
-    "animejs": "^3.2.2",
+    "animejs": "^4.0.1",
     "babel-plugin-styled-components": "^2.1.4",
     "gatsby": "^5.14.3",
     "gatsby-image": "^3.11.0",
