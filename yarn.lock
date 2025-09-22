@@ -5951,14 +5951,14 @@ gatsby-plugin-netlify@^5.1.1:
     lodash.mergewith "^4.6.2"
     webpack-assets-manifest "^5.0.6"
 
-gatsby-plugin-offline@^6.14.0:
-  version "6.14.0"
-  resolved "https://registry.npmjs.org/gatsby-plugin-offline/-/gatsby-plugin-offline-6.14.0.tgz"
-  integrity sha512-uvQhwZ1HhPZoLJDYdZ+OTWsz/QRz3hNqF+QVhihPRZ9jjgXsPAqKGTgrWM0Btaf6DiNImz10PTo1/SRsp0UDgQ==
+gatsby-plugin-offline@^6.15.0:
+  version "6.15.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-6.15.0.tgz#301d1f2e724094371c5bd7c12754eb1f9b516e43"
+  integrity sha512-qrHDth/1rIXIQA/X7Z2fG2hNlF6xoOykzB33uMADZj3LACk/Y7ZJmBunkTNzfk3KteLemK6YODZi51Fy+C5p9g==
   dependencies:
     "@babel/runtime" "^7.20.13"
     cheerio "1.0.0-rc.12"
-    gatsby-core-utils "^4.14.0"
+    gatsby-core-utils "^4.15.0"
     glob "^7.2.3"
     idb-keyval "^3.2.0"
     lodash "^4.17.21"
