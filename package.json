@@ -70,7 +70,7 @@
     "eslint-config-prettier": "^10.1.8",
     "gatsby-remark-code-titles": "^1.1.0",
     "husky": "9.1.7",
-    "lint-staged": "^16.2.0",
+    "lint-staged": "^16.2.3",
     "prettier": "^3.6.2"
   }
 }
